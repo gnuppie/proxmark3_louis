@@ -1,0 +1,97 @@
+RETRIEVE PHASE:
+9B7C66A9
+0004
+08
+9B7C66A9
+0004
+08
+AUTOPWN PHASE:
+[[36m![0m]         no known key was supplied, key recovery might fail
+[[32m+[0m] loaded [32m5[0m dynamic keys
+[[32m+[0m] loaded [32m61[0m keys from hardcoded default array
+[[33m=[0m] running strategy 1
+[[33m=[0m] ...
+[[33m=[0m] running strategy 2
+[[33m=[0m] ...
+[[32m+[0m] target sector   0 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ] (used for nested / hardnested attack)
+[[32m+[0m] target sector   0 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector   1 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector   1 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector   8 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector   8 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  13 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  13 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  14 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  14 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  15 key type A -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] target sector  15 key type B -- found valid key [ [32mFFFFFFFFFFFF[0m ]
+[[32m+[0m] Found [33m1[0m key candidates
+
+[[32m+[0m] Target block    8 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+
+[[32m+[0m] target sector   2 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   2 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   3 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   3 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   4 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   4 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   5 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   5 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   6 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   6 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   7 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   7 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   9 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector   9 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  10 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  10 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  11 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  11 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  12 key type A -- found valid key [ [32m19CE9D0C24DD[0m ]
+[[32m+[0m] target sector  12 key type B -- found valid key [ [32m19CE9D0C24DD[0m ]
+
+[[32m+[0m] [32mfound keys:[0m
+
+[[32m+[0m] -----+-----+--------------+---+--------------+----
+[[32m+[0m]  Sec | Blk | key A        |res| key B        |res
+[[32m+[0m] -----+-----+--------------+---+--------------+----
+[[32m+[0m]  [33m000[0m | 003 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m]  [33m001[0m | 007 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m]  [33m002[0m | 011 | [32m19CE9D0C24DD[0m | [32;1mN[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m003[0m | 015 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m004[0m | 019 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m005[0m | 023 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m006[0m | 027 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m007[0m | 031 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m008[0m | 035 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m]  [33m009[0m | 039 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m010[0m | 043 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m011[0m | 047 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m012[0m | 051 | [32m19CE9D0C24DD[0m | [32;1mR[0m | [32m19CE9D0C24DD[0m | [32;1mR[0m
+[[32m+[0m]  [33m013[0m | 055 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m]  [33m014[0m | 059 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m]  [33m015[0m | 063 | [32mFFFFFFFFFFFF[0m | [32;1mD[0m | [32mFFFFFFFFFFFF[0m | [32;1mD[0m
+[[32m+[0m] -----+-----+--------------+---+--------------+----
+[[33m=[0m] ( [33mD[0m:Dictionary / [33mS[0m:darkSide / [33mU[0m:User / [33mR[0m:Reused / [33mN[0m:Nested / [33mH[0m:Hardnested / [33mC[0m:statiCnested / [33mA[0m:keyA  )
+
+
+[[32m+[0m] Generating binary key file
+[[32m+[0m] Found keys have been dumped to `[33m/home/kali/hf-mf-9B7C66A9-key-002.bin[0m`
+[[33m=[0m] --[ [33mFFFFFFFFFFFF[0m ]-- has been inserted for unknown keys where [33mres[0m is [31m0[0m
+[[33m=[0m] transferring keys to simulator memory ( [32mok[0m )
+[[33m=[0m] dumping card content to emulator memory (Cmd Error: 04 can occur)
+[[33m=[0m] downloading card content from emulator memory
+[[32m+[0m] Saved [33m1024[0m bytes to binary file `[33m/home/kali/hf-mf-9B7C66A9-dump-003.bin[0m`
+[[32m+[0m] Saved to json file `[33m/home/kali/hf-mf-9B7C66A9-dump-003.json[0m`
+[[33m=[0m] autopwn execution time: [33m18[0m seconds
+
+CSETUID PHASE:
+[[32m+[0m] old block 0... 005678BB9508040002B21E2423271E1D
+[[32m+[0m] new block 0... 9B7C66A92808040002B21E2423271E1D
+[[32m+[0m] Old UID... 00 56 78 BB 
+[[32m+[0m] New UID... 9B 7C 66 A9  ( [32mverified[0m )
+
+CLONING PHASE:
+[[36m![0m]         No tag found.
+
+---------------------------
